@@ -1,6 +1,24 @@
 # Esercizi elementari con le funzioni
 Risolvere gli esercizi precedenti incapsulando le operazioni nelle funzioni `double()`, `add_n()`, `gcd()` e `is_prime()`.
 
+Le funzioni devono avere il seguente prototipo: 
+
+```python
+def double(n: float) -> float
+```
+
+```python
+def add_n(n: int) -> int
+```
+
+```python
+def gcd(n: int, m:int) -> int
+```
+
+```python
+def is_prime(n: int) -> bool
+```
+
 # Esercizi sulle liste
 1. Scrivere le funzioni `media()` e `varianza()` che calcolano il corrispondente valore per una lista di numeri.
 1. Scrivere la funzione `ribalta()` che restituisce una lista con gli elementi in ordine inverso rispetto a quella fornita in input.
