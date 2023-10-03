@@ -4,19 +4,17 @@ Risolvere gli esercizi precedenti incapsulando le operazioni nelle funzioni `dou
 Le funzioni devono avere il seguente prototipo: 
 
 ```python
-def double(n: float) -> float
-```
+def double(n: float) -> float:
+    pass
 
-```python
-def add_n(n: int) -> int
-```
+def add_n(n: int) -> int:
+    pass
 
-```python
-def gcd(n: int, m:int) -> int
-```
+def gcd(n: int, m:int) -> int:
+    pass
 
-```python
-def is_prime(n: int) -> bool
+def is_prime(n: int) -> bool:
+    pass
 ```
 
 # Esercizi sulle liste
